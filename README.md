@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-jnu  courseera datascience toolbox
+jnu  coursera datascience toolbox
